@@ -1,0 +1,1 @@
+cmd_/home/ykl/linux/drive/linux/05_gpioled/gpioled.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ykl/linux/drive/linux/05_gpioled/gpioled.ko /home/ykl/linux/drive/linux/05_gpioled/gpioled.o /home/ykl/linux/drive/linux/05_gpioled/gpioled.mod.o
