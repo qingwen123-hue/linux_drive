@@ -1,0 +1,1 @@
+cmd_/home/ykl/linux/drive/linux/mydht11/dht11.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ykl/linux/drive/linux/mydht11/dht11.ko /home/ykl/linux/drive/linux/mydht11/dht11.o /home/ykl/linux/drive/linux/mydht11/dht11.mod.o
