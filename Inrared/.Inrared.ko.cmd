@@ -1,0 +1,1 @@
+cmd_/home/ykl/linux/drive/linux/Inrared/Inrared.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ykl/linux/drive/linux/Inrared/Inrared.ko /home/ykl/linux/drive/linux/Inrared/Inrared.o /home/ykl/linux/drive/linux/Inrared/Inrared.mod.o
